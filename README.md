@@ -7,6 +7,7 @@ Project creates an interactive chatbot using the RASA framework for answering al
 
 ## Steps to run the code
 we have two code .ipynb files
+**refer to project 1 in endsem_report.pdf for further details**
 ### Saraswathy_mandir_chatbot.ipynb
 + corresponds to the basic implementation of our chatbot (works only in english language)
 + run the code block in the exact order and restartd the instance whenever asked in the comments.
